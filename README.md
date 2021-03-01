@@ -14,6 +14,8 @@ Blobplots and Genomescope results can be found under the QC directory.
 ## Released assemblies
 The filtered reads were assembled with Hifiasm, HiCanu, Flye and Redbean. The assembly with highest number of complete chromosomes or highest N50 was chosen as the best representative. 
 
+![Phylogeny of sequenced strains](oscheius_assembly_span_and_duplication.png)
+
 ## Authors
 
 These sequences were generated thanks to the work of Pablo Gonzalez de la Rosa, Robin Moll, Manuela Kieninger, Sanger's DNA pipelines staff (Elizabeth Cook et al.), Marie-Anne Félix and Mark Blaxter.
